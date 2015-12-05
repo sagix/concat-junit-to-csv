@@ -6,8 +6,9 @@ Concat junit reports to csv
 go get github.com/sagix/concat-junit-to-csv
 ```
 To install the executable in you *$GOBIN*
+From your **src** directory execute:
 ```bash
-go install concat-junit-to-csv.go
+go install github.com/sagix/concat-junit-to-csv
 ```
 ##Usage
 
